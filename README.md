@@ -1,7 +1,7 @@
 ### Hi I'm Yuni, Nice to meet you 👋
-🔭 I’m currently working on software company in Taoyuan, Taiwan.
-🌱 I’m currently learning How to be a great engineer.
-📫 Email: yuni70217@gmail.com
+🔭 I’m currently working on software company in Taoyuan, Taiwan.  
+🌱 I’m currently learning How to be a great engineer.  
+📫 Email: yuni70217@gmail.com  
 <!--
 **Yuni-Liao/Yuni-Liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
