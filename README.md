@@ -1,5 +1,5 @@
 ### Hi I'm Yuni, Nice to meet you 👋
-🔭 I’m currently working in software company in Taoyuan, Taiwan.  
+🔭 I’m currently working in Taoyuan, Taiwan.  
 🌱 I’m currently learning How to be a great engineer.  
 📫 Email: yuni70217@gmail.com  
 <!--
